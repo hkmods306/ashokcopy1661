@@ -160,7 +160,7 @@
       "device_id": "b820f3115bfcbb36",
       "username": "Username",
       "password": "password",
-      "expire_date": "2025-12-06"
+      "expire_date": "2026-01-08"
     },
     {
       "device_id": "891e5294fcb99dee",
@@ -310,7 +310,7 @@
       "device_id": "a1c6d0eac5a083e8",
       "username": "Username",
       "password": "password",
-      "expire_date": "2025-12-06"
+      "expire_date": "2026-01-08"
     },
     {
       "device_id": "bf81188b3c4bf7e9",
@@ -437,6 +437,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2026-01-05"
+    },
+    {
+      "device_id": "1679d7849df01738",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-01-08"
     }
   ]
 }
