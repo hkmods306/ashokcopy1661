@@ -16,6 +16,12 @@
       "device_id": "dd8662b4610afe82",
       "username": "Username",
       "password": "password",
+      "expire_date": "2026-02-21"
+    },
+    {
+      "device_id": "dd8662b4610afe82",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2025-02-21"
     },
     {
