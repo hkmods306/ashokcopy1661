@@ -16,6 +16,12 @@
       "device_id": "5b9e3f27a2699f7e",
       "username": "Username",
       "password": "password",
+      "expire_date": "2026-06-22"
+    },
+    {
+      "device_id": "5b9e3f27a2699f7e",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2025-06-22"
     },
     {
